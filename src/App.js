@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div>
         <Layout>
-          <Switch>    {/* switch is not required here. */}
+          <Switch>    {/* switch is not required here . */}
             <Route path="/" exact component={BurgerBuilder} />  
             <Route path="/orders" component={Orders} /> 
             <Route path="/checkout" component={Checkout} />
