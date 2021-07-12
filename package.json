@@ -2,7 +2,7 @@
   "name": "burgur",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coderandme.github.io/Burger-App",
+  "homepage": "https://coderandme.github.io/React-Burger-app",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "axios": "^0.19.2",
